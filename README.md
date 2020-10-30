@@ -16,6 +16,7 @@ O projeto feito durante o treinamento de HTML5 e CSS3. Trata-se de uma página b
 
 Fiz algumas modificações :writing_hand:
 * Alterei as imagens
+* Adicionei um favicon
 * Cores de fundo e das fontes
 * Alterei a fonte
 * Acrescentei um rodapé
