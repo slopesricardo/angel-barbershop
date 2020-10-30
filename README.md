@@ -15,10 +15,10 @@ Este repositório contém um pequeno projeto que consiste em uma página web.  F
 O projeto feito durante o treinamento de HTML5 e CSS3. Trata-se de uma página básica com intuito apenas de apresentar as linguagens.
 
 Fiz algumas modificações :writing_hand:
-    * Alterei as imagens
-    * Cores de fundo e das fontes
-    * Alterei a fonte
-    * Acrescentei um rodapé
+* Alterei as imagens
+* Cores de fundo e das fontes
+* Alterei a fonte
+* Acrescentei um rodapé
  
 :grey_exclamation: Não utilizei os padrões e boas práticas, se trata apenas de um exercício. 
 
